@@ -5,6 +5,8 @@ out/
 
 ###my rules###
 **/.idea/workspace.xml **/.idea/tasks.xml
+.idea/uiDesigner.xml
+
 
 ### Eclipse ###
 .apt_generated
